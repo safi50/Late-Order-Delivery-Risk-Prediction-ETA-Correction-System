@@ -90,8 +90,8 @@ This project addresses late delivery challenges in food delivery services using 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/safi50/Late-Order-Delivery-Risk-Prediction-ETA-Correction-System.git
+   cd Late Delivery Risk Prediction & ETA Correction System
    ```
 
 2. Create a virtual environment:
